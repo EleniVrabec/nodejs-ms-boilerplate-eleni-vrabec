@@ -1,0 +1,346 @@
+{"level":"info","message":"[undefined] Boostraping micro service","timestamp":"2023-10-17 13:38:12"}
+{"level":"info","message":"[EXPRESS] Server running at  http://undefined:undefined/ ","timestamp":"2023-10-17 13:38:12"}
+{"level":"info","message":"[undefined] Boostraping micro service","timestamp":"2023-10-17 13:38:56"}
+{"level":"info","message":"[EXPRESS] Server running at  http://undefined:undefined/ ","timestamp":"2023-10-17 13:38:56"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - START!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from undefined -START!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  undefined -FAILED","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR]Creating data","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data created","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  users.json -FAILED","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 13:49:57"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - START!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from undefined -START!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  undefined -FAILED","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR]Creating data","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data created","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  users.json -FAILED","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 13:55:32"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - START!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from undefined -START!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  undefined -FAILED","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR]Creating data","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data created","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  users.json -FAILED","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 14:15:32"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - START!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from undefined -START!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  undefined -FAILED","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR]Creating data","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data created","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  users.json -FAILED","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 14:50:48"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - START!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - DONE!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR]Creating data","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data created","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  users.json -FAILED","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:12:32"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - START!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - DONE!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR]Creating data","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data created","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  users.json -FAILED","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:19:30"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - START!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - DONE!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR]Creating data","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data created","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  users.json -FAILED","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:22:29"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - START!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - DONE!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR]Creating data","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data created","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  users.json -FAILED","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:29:22"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - START!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - DONE!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR]Creating data","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data created","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  users.json -FAILED","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:32:24"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - START!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - DONE!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR]Creating data","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data created","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  users.json -FAILED","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:33:04"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - DONE!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR]Creating data","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data created","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  users.json -FAILED","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:49:15"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - START!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[USE-CASE][GET] Reading from fileusers.json - DONE!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR]Creating data","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data created","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE]  users.json -FAILED","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - ERROR!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - START!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Checking data","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [CHECK-DIR] Directory data exists","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -START!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [READ-FROM-FILE] Reading from users.json -END!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -START!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[DATA-ACCESS] [WRITE-TO-FILE] Writing to users.json -END!","timestamp":"2023-10-20 16:51:31"}
+{"level":"info","message":"[POST] [USE_CASE] Inserting object process - DONE!","timestamp":"2023-10-20 16:51:31"}
