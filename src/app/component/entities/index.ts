@@ -17,6 +17,14 @@ const makeInputObj = ({
 }) => makeInputObjFactory({md5, sanitize})
 .inputObj({params, errorMsgs})
 
+//dali e vaka ok?
+const makeOutputObj = ({
+    params
+}) => makeInputObjFactory({md5, sanitize})
+.inputObj({params, errorMsgs})
+
+
 export{
-    makeInputObj
+    makeInputObj,
+    makeOutputObj
 }

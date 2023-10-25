@@ -1,19 +1,42 @@
-import { access } from 'node:fs/promises';
-export default function createGet({access, readFile, logger }) {
-    return Object.freeze({ get })
-    
-    async function get({ params, filePath, filename }){
-      try {
-        logger.info(`[USE-CASE][GET] Reading from file${ filename } - START!`);
-        await access(filePath)
-        const fileContent = await readFile(filePath)
-        logger.info(`[USE-CASE][GET] Reading from file${ filename } - DONE!`);
-        //return JSON.parse(fileContent)
-        return JSON.parse(fileContent);
-        
-      } catch (e) {
-        //throw e.message
-        throw new Error(`Failed to access, read, or parse the file: ${e.message}`);
-      }
+export default function createGet({
+  makeInputObj,
+  findDocuments,
+  makeOutputObj,
+  logger
+}) {
+  return Object.freeze({ get })
+  
+  async function get({ params, dbConfig, errorMsgs }){
+    logger.info(`[USE-CASE][GET] Reading from db - START!`);
+    Object.keys(params).forEach(key => params[key] === undefined && delete params[key])
+
+    console.log(params)
+    if (Object.values(params).length) {
+      const userFactory = makeInputObj({ params });
+
+      params = { 
+        usernameHash: !params.username ? undefined : userFactory.usernameHash(),
+        emailHash: !params.email ? undefined : userFactory.emailHash(),
+        usernamePasswordHash: !params.usernamePasswordHash ? undefined : userFactory.usernamePasswordHash()
+      };
+
+      Object.keys(params).forEach(key => params[key] === undefined && delete params[key])
     }
+    
+    console.log(params)
+    // 'and' query
+    const dbResults = await findDocuments({ query: params, dbConfig });
+
+    const results = dbResults.map(post => {
+      const resultsObj = makeOutputObj({ params: post });
+      return ({
+        username: resultsObj.username(),
+        email: resultsObj.email(),
+        created: resultsObj.created(),
+        modified: resultsObj.modified()
+      })
+    })
+
+    return  results;
   }
+}

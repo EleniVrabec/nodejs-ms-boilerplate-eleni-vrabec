@@ -14,27 +14,37 @@ const NODE_ENV ="test";
 //const NODE_HOSTNAME = process.env.NODE_HOSTNAME;
 //const NODE_PORT = process.env.NODE_PORT;
 const FILE_FOLDER_NAME = "data";
-const FILE_FOLDER_PATH = path.join(__dirname, "/data/");
+const FILE_FOLDER_PATH = path.join(__dirname, "../data/");
 const FILE_DB_NAME = "users.json";
 
 const FILE_DB_PATH = `${FILE_FOLDER_PATH}/${FILE_DB_NAME}`;
+
+const DB_CONFIG = {
+    dbName: 'db_my_app_test',
+    dbUri: 'mongodb://localhost/db_my_app_test',
+    dbColl: 'coll_users'
+  }
+  
 
 const ERROR_MSG ={
     post: {
         MISSING_PARAMETER: 'undefinedusername',
         //NO_DATA: 'No data inserted',
         EXISTING_USER: 'User already exists',
+        INVALID_EMAIL: 'invalid email'
     }
 };
 
 const TEST_DATA = {
     user1:{
         username:"user1",
-        password:"password1"
+        password:"password1",
+        email:"user1@example.com"
     },
     user2:{
         username:"user2",
-        password:"password2"
+        password:"password2",
+        email:"user2@example.com"
     }
 }
 
@@ -48,5 +58,6 @@ export default Object.freeze({
     FILE_FOLDER_PATH,
     FILE_DB_NAME,
     FILE_DB_PATH,
-    TEST_DATA
+    TEST_DATA,
+    DB_CONFIG
 })
